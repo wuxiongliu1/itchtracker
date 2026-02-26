@@ -1,0 +1,5 @@
+{
+  "name": "ItchTracker",
+  "description": "A visual body map tracker for recording itch locations and severity.",
+  "requestFramePermissions": ["geolocation"]
+}
